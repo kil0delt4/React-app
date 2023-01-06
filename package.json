@@ -1,0 +1,33 @@
+{
+  "name": "analytics-app",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "images": "3.2.4",
+    "mdb-react-ui-kit": "5.1.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-icons": "4.7.1",
+    "react-scripts": "3.2.0",
+    "recharts": "2.2.0",
+    "scrollreveal": "4.0.9",
+    "styled-components": "5.3.6"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
